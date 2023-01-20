@@ -19,8 +19,9 @@ endif
 " Palettes:"{{{
 " ----------------------------------------------------------------------------
 let s:palette = {}
-let s:palette.c00       = {"gui": {"dark": "#111A1F"}, "cterm": {"dark": "232"}}
+" let s:palette.c00       = {"gui": {"dark": "#111A1F"}, "cterm": {"dark": "232"}}
 " let s:palette.c00       = {"gui": {"dark": "#10191e"}, "cterm": {"dark": "232"}}
+let s:palette.c00       = {"gui": {"dark": "#0E161B"}, "cterm": {"dark": "232"}}
 " let s:palette.c01       = {"gui": {"dark": "#8D7856"}, "cterm": {"dark": "101"}}
 let s:palette.c01       = {"gui": {"dark": "#FFC466"}, "cterm": {"dark": "101"}}
 " let s:palette.c02       = {"gui": {"dark": "#798362"}, "cterm": {"dark": " 66"}}
@@ -47,7 +48,7 @@ let s:palette.bk01      = {"gui": {"dark": "#192227"}, "cterm": {"dark": "234"}}
 let s:palette.bk02      = {"gui": {"dark": "#13171B"}, "cterm": {"dark": "234"}}
 " let s:palette.bk03      = {"gui": {"dark": "#2D3640"}, "cterm": {"dark": "234"}}
 " let s:palette.bk03      = {"gui": {"dark": "#1E252E"}, "cterm": {"dark": "234"}}
-let s:palette.bk03      = {"gui": {"dark": "#282E33}, "cterm": {"dark": "234"}}
+let s:palette.bk03      = {"gui": {"dark": "#282E33"}, "cterm": {"dark": "234"}}
 " let s:palette.comment   = {"gui": {"dark": "#5A5A5A"}, "cterm": {"dark": "240"}}
 " let s:palette.comment   = {"gui": {"dark": "#9C9C9C"}, "cterm": {"dark": "240"}}
 let s:palette.comment   = {"gui": {"dark": "#343B3F"}, "cterm": {"dark": "240"}}
